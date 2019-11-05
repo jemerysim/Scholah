@@ -1,4 +1,4 @@
-# SCHOLAH
+# SCHOLAH!
 Helping prospective students find scholarships
 
 
