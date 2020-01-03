@@ -1,9 +1,9 @@
-# SCHOLAH!
+## SCHOLAH!
 Helping prospective students find scholarships
 
 
 
-Jeremy Sim
+# Jeremy Sim
 
-Wong Wei Kang
+# Wong Wei Kang
 
