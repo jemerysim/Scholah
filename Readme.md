@@ -7,7 +7,6 @@ Things to improve:
 - "Add to bag" functionality
 
 ## Authors:
-## Jeremy Sim
-
-## Wong Wei Kang
+Jeremy Sim
+Wong Wei Kang
 
