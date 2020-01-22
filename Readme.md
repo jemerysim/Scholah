@@ -8,5 +8,6 @@ Things to improve:
 
 ## Authors:
 Jeremy Sim
+
 Wong Wei Kang
 
