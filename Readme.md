@@ -3,7 +3,7 @@ Helping prospective students find scholarships
 
 Things to improve:
 - Expand database 
-- Automate ETL process
+- Automate Data Collection
 - "Add to bag" functionality
 
 ## Authors:
